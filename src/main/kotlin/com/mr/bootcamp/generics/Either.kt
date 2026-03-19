@@ -1,4 +1,4 @@
-package generics
+package com.mr.bootcamp.generics
 
 /**
  * Generics = Type-safe code -works with multiple types without sacrificing compile time type checks

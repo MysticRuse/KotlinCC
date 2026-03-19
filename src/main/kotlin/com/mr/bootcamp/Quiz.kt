@@ -1,4 +1,6 @@
-package com.mr.bootcampimport java.util.Random
+package com.mr.bootcamp
+
+import java.util.Random
 
 
 const val MAX_BORROWS = 10

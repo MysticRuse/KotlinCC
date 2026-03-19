@@ -1,7 +1,8 @@
-package com.mr.bootcamp/**
+package com.mr.bootcamp
+
+/**
  * Class to learn using constructors
  */
-
 class Spice(name: String, var spiciness: String = "mild"): Any() {
 
     constructor(name: String, heat: Int) : this(name, spiciness = when(heat) {

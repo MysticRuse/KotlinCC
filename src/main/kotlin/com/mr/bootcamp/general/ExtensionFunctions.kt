@@ -1,1 +1,1 @@
-package general
+package com.mr.kotlin.bootcamp.general

@@ -1,4 +1,4 @@
-package generics
+package com.mr.bootcamp.generics
 
 open class BaseBuildingMaterial(val numberNeeded: Int = 1)
 

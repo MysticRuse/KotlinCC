@@ -1,4 +1,4 @@
-package spices
+package com.mr.bootcamp.spices
 
 /**
  * Types pof classes:
@@ -76,9 +76,11 @@ fun main(args: Array<String>) {
     val cur = Curry("allspice", "mild")
     println(cur.color)
 
-    val spiceCabinet = listOf(SpiceContainer(cur),
+    val spiceCabinet = listOf(
+        SpiceContainer(cur),
         SpiceContainer(Curry("Red Curry", "mild")),
-        SpiceContainer(Curry("Green Curry", "hot")))
+        SpiceContainer(Curry("Green Curry", "hot"))
+    )
 
     println(" --- My spice cabinet ---")
     for (spiceCabin in spiceCabinet) {

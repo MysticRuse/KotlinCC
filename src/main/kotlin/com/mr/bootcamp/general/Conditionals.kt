@@ -1,4 +1,4 @@
-package general
+package com.mr.kotlin.bootcamp.general
 
 fun conditionalsIfELse(count: Int) {
     if (count == 42) println("Answer : $count")

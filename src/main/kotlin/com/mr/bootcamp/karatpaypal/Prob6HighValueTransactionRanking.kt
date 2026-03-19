@@ -1,4 +1,4 @@
-package practice.karatpaypal
+package com.mr.bootcamp.karatpaypal
 
 import java.util.PriorityQueue
 

@@ -1,4 +1,4 @@
-package general
+package com.mr.kotlin.bootcamp.general
 
 // Set at compile time. Works only at top level.
 // Can define all consts in a separate class

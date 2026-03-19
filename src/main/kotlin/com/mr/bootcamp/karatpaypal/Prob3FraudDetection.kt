@@ -1,4 +1,6 @@
-package practice.karatpaypal
+package com.mr.bootcamp.karatpaypal
+
+import kotlin.collections.iterator
 
 /**
  * Given a list of key-card swipe events (like LeetCode 1604) for multiple users:

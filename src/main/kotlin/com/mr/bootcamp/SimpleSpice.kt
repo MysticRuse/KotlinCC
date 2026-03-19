@@ -1,4 +1,6 @@
-package com.mr.bootcampclass SimpleSpice() {
+package com.mr.bootcamp
+
+class SimpleSpice() {
     val name = "curry"
     val spiciness = "mild"
     val heat: Int

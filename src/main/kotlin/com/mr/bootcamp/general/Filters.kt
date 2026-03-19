@@ -1,4 +1,4 @@
-package general
+package com.mr.kotlin.bootcamp.general
 
 /**
  * “Sequences are lazy until a terminal operation triggers evaluation.”

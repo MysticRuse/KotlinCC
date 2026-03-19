@@ -1,4 +1,4 @@
-package practice.karatpaypal
+package com.mr.bootcamp.karatpaypal
 
 /**
 You are working on an inventory system, which lists all items in alphabetical order. We would like to verify that the system is working correctly.

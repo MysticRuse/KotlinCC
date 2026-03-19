@@ -1,6 +1,4 @@
-package general
-
-import jdk.jfr.Threshold
+package com.mr.kotlin.bootcamp.general
 
 
 // Simplifying function declarations

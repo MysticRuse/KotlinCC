@@ -1,4 +1,6 @@
-package practice.karatpaypal
+package com.mr.bootcamp.karatpaypal
+
+import kotlin.collections.iterator
 
 private const val ONE_HOUR_IN_SECONDS = 60 * 60
 

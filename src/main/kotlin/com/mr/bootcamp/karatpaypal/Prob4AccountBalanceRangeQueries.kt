@@ -1,4 +1,4 @@
-package practice.karatpaypal
+package com.mr.bootcamp.karatpaypal
 
 /**
  * Account Balance Range Queries (Segment Tree / Prefix Sum)

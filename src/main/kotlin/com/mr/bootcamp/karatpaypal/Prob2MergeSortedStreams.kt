@@ -1,6 +1,5 @@
-package practice.karatpaypal
+package com.mr.bootcamp.karatpaypal
 
-import jdk.javadoc.internal.doclets.formats.html.markup.HtmlStyle
 import java.util.PriorityQueue
 
 /**

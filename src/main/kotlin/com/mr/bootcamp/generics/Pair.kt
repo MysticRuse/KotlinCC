@@ -1,4 +1,4 @@
-package generics
+package com.mr.bootcamp.generics
 
 class Pair<K, V> (
     var key: K, val value: V

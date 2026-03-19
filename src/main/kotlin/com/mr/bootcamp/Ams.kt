@@ -1,4 +1,6 @@
-package com.mr.bootcampimport java.util.Calendar
+package com.mr.bootcamp
+
+import java.util.Calendar
 import java.util.Random
 
 fun main(args: Array<String>) {

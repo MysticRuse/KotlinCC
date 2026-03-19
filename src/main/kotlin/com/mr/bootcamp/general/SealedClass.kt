@@ -1,4 +1,4 @@
-package general
+package com.mr.kotlin.bootcamp.general
 
 class SealedClass {
 }
